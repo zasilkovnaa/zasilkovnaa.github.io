@@ -1,0 +1,12 @@
+<svg viewBox="0 0 1.852 1.852" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+    <defs>
+    <linearGradient id="a">
+      <stop style="stop-color:#fafafa;stop-opacity:1" offset="0" />
+      <stop style="stop-color:#f9f9f9;stop-opacity:1" offset="1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" gradientUnits="userSpaceOnUse" x1="0.926" y1="0.926" x2="0" y2="0" />
+  </defs>
+    <path style="fill:url(#b);fill-opacity:1;stroke:none" d="M0 0h1.852L0 1.852Z" />
+    <path style="fill:none;stroke:#d0d0d0;stroke-width:1px" d="M1.657.383.383 1.657"
+    shape-rendering="geometricPrecision" vector-effect="non-scaling-stroke" />
+  </svg>
